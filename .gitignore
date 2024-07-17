@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+
+# bash
+!.bashrc
+
+# vim
+!.vim
+!.vim/colors
+!.vim/colors/hybrid.vim
+!.vimrc
+
+# zsh
+!.zshrc
